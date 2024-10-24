@@ -2,3 +2,5 @@
 Repository and files that learners use during the Wiz CLI lab
 
 test
+
+Hello world!
